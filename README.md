@@ -1,7 +1,6 @@
 # Performance-testing-on-restful-booker
-Dear,
 
-I’ve completed the performance testing on  **restful-booker API**.
+I have Completed the performance testing project on  **restful-booker API**.
 
 Test executed for the below-mentioned scenario in server [Restful-booker](https://restful-booker.herokuapp.com/).
 
@@ -29,6 +28,7 @@ Summary: The server can handle almost a concurrent 2100 API calls with almost ze
 
 Thank You For Reading,
 
-From
+Elahi Mugdha
 
-Muhsina Rifa
+
+
